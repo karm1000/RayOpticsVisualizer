@@ -1,0 +1,21 @@
+a->Sign conventions
+Ic
+s
+s
+a->Refraction at spherical surface
+Id
+s
+s
+a->Interconnection between Object distance,Image distance,Refrective indices of 2 mediums for refraction at single spherical surface
+Ie
+s
+s
+a->Lens Maker's Formula(helpful for calculating focal length)
+If
+Ih
+a->"Lenses where the thickness is lesser, such that they are considered negligible in comparison to the radius of curvature, are referred to as thin lenses."
+s
+s
+a->Derivation
+Ig
+s

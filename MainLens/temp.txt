@@ -1,0 +1,17 @@
+A lens is a transmissive optical device which focuses or disperses a light beam by means
+of refraction. A simple lens consists of a single piece of transparent material, while a
+compound lens consists of several simple lenses (elements),usually arranged along a
+common axis. Lenses are made from materials such as glass or plastic, and are ground and
+polished or molded to a desired shape. A lens can focus light to form an image, unlike a
+prism, which refracts light without focusing. Devices that similarly focus or disperse
+waves and radiation other than visible light are also called lenses, such as microwave
+lenses, electron lenses, acoustic lenses, or explosive lenses.
+
+A lens is one of the most familiar optical devices for a human being. We have lenses in
+our eyes and a good number of us supplement them with another set of lenses in our
+spectacles. A lens is made of a transparent material bounded by two spherical surfaces.
+The surfaces may be both convex, both concave or one convex and one concave. When the
+thickness of the lens is small compared to the other dimensions like object distance,
+we call it a thin lens Figure (18.18) shows several lenses and paths of a number of rays
+going through them.
+
