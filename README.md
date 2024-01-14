@@ -9,7 +9,7 @@ The project was made in java with Java Swing library.
 
 
 ## Collaborators
-- [Aayush Dalal - @aayush6621](https://www.github.com/aayush6621)
+- [Aayush Dalal - @aayush7908](https://www.github.com/aayush7908)
 - [Bhaumik Lodhia - @bhaumik29](https://www.github.com/bhaumik29)
 - [Dhruv Bhatt - @dhruvbhatt553](https://www.github.com/dhruvbhatt553)
 - [Karm Soni - @karm1000](https://www.github.com/karm1000)
