@@ -1,0 +1,25 @@
+aMIRROR
+cA mirror is a reflective surface that bounces off light, producing either a real image or a virtual image
+bPLANE AND SPHERICAL MIRROR
+aMirrors are made into different shapes for different purposes.
+s
+cThe two of the most prominent types of mirrors are:
+s
+b->Plane Mirrors
+b->Spherical Mirrors
+s
+cA plane mirror is a flat, smooth reflective surface. A plane mirror always forms a virtual image that is upright, and of the same shape and size as the object, it is reflecting. A spherical mirror is a mirror that has a consistent curve and a constant radius of curvature. The images formed by a spherical mirror can either be real or virtual. Spherical mirrors are of two types as:
+s
+b1.Concave Mirror
+b2.Convex Mirror
+I0
+s
+aIMAGE FORMATION BY SPHERICAL MIRROR
+s
+cSTEP 1-When a ray strikes concave or convex mirrors obliquely at its pole, it is reflected obliquely making the same angle with the principal axis.
+s
+cSTEP 2-When a ray, parallel to the principal axis strikes concave or convex mirrors, the reflected ray passes through the focus on the principal axis.
+s
+cSTEP 3-When a ray, passing through focus strikes concave or convex mirrors, the reflected ray will be parallel to the principal axis.
+s
+cSTEP 4-A ray passing through the centre of curvature of the spherical mirror will retrace its path after reflection.

@@ -1,0 +1,9 @@
+Ie
+s
+a->Reflection:Reflection is the phenomenon in which the light travelling in one medium that gets incident on the surface of the second medium returns to the first medium obeying the laws of reflection. The light rays will get reflected from the polished surface.
+s
+Ig
+s
+a->Laws Of reflection
+a->LAW[1]. The incident ray, the reflected ray and the normal to the surface at the point of incidence, all lie on the same plane.
+a->LAW[2].The angle of incidence will be equal to the angle of reflection.
