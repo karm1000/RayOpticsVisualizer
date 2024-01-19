@@ -7,6 +7,25 @@ The User can change many variable involved in image formation like distance, hei
 ## Tech Stack
 The project was made in java with Java Swing library.
 
+## Compile and Run
+Open the project in your terminal. Once you are inside the directory `RayOpticsVisualizer`, compile the files using below given command:
+
+```
+javac -d "./bin" Run/*.java
+```
+
+Having executed the above command, `.class` files will be created inside `bin` folder.
+Move to directory `bin` by using command:
+
+```
+cd bin
+```
+
+To run the project, use the command:
+
+```
+java bin/Run/FrontPage
+```
 
 ## Collaborators
 - [Aayush Dalal - @aayush7908](https://www.github.com/aayush7908)
