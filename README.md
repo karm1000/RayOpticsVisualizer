@@ -24,7 +24,7 @@ cd bin
 To run the project, use the command:
 
 ```
-java bin/Run/FrontPage
+java Run/FrontPage
 ```
 
 ## Collaborators
